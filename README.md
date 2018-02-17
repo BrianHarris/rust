@@ -1,0 +1,2 @@
+# rust
+miscellaneous rust projects
